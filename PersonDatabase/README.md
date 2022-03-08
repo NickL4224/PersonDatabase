@@ -1,2 +1,1 @@
-"# PersonDatabase" 
-"# PersonDatabase" 
+This a Java console application that allows a user to store a list of people with their first and last name, as well as age. The information is stored in a MySQL database using the JDBC framework. When ran, the user can create a new person, update or delete an existing person, and retrieve a list of all people, or a specific person. When updating, deleting, or retrieving a single person it is done with the ID number associated with that person.
